@@ -11,6 +11,7 @@
 - [Error 1101 和 522 报错解决方案教程](https://youtu.be/4fcyJjstFdg) | [优选IP和优选反代IP视频教程](https://youtu.be/pKrlfRRB0gU) | [解决常见订阅测试-1问题教程](https://youtu.be/kYQxV1G-ePw)
 - [VLESS免费节点部署教程](https://youtu.be/dPH63nITA0M) | [Trojan免费节点部署教程](https://youtu.be/uh27CVVi6HA) | [从入门到精通免费部署教程](https://youtu.be/ag12Rpc9KP4) | [聚合节点订阅教程](https://youtu.be/YBO2hf96150)
 - [GitHub私有库存储优选IP文教程](https://youtu.be/vX3U3FuuTT8) | [CF免费KV存储优选IP文件教程](https://youtu.be/dzxezRV1v-o) [获取免费域名教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [获取CF自家域名无限节点](https://youtu.be/novrPiMsK70)
+- [🔥amclubs-cfnat自动优先IP视频教程(Win桌面版)](https://youtu.be/-a6NJ6vPSu4) | [🔥Linux & openwrt软路由版](https://youtu.be/ZC6fxZwPaiM) | [🔥Mac版](https://youtu.be/gf6gncc2yEE) | [🔥安卓(Android)手机版](https://youtu.be/7yamDM38MFw) 
 
 ### CF端口类型:
 ~~~
